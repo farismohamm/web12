@@ -71,7 +71,7 @@ img {
 .creat-content h1 {
     margin-top: 20px;
     font-family: 'ahmed';
-    letter-spacing: -2px;
+
 }
 .creat-content h1 span {
     color: #a387dd;
@@ -153,7 +153,7 @@ img {
     font-size: 37px;
     margin-bottom: 30px;
     font-family: 'ahmed';
-    letter-spacing: -2px;
+
 }
 .creat-content-3 img {
     width: 215px;
@@ -180,7 +180,7 @@ img {
     font-weight: 600;
     font-size: 20px;
     width: 66px;
-    letter-spacing: -2.1px;
+  
 }
 .creat-content-4 span {
     font-size: 22px;
@@ -207,7 +207,7 @@ img {
     font-family: 'ahmed';
     font-size: 20px;
     width: 122px;
-    letter-spacing: -2px;
+
 }
 .creat-content-5 {
     grid-area: creat-content-5;
